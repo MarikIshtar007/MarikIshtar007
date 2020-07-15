@@ -1,6 +1,6 @@
 <h2> Hey, Haany here! 👋</h2>
 
-<img src = '/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
 
@@ -13,7 +13,7 @@ Welcome to my humble abode in the Digital World.. I have been trying to exit the
 * Frontend and Backend Web Development
 
 ## Programming Languages
-<img src = '/images/c-original.svg' width='30'/> <img src = '/images/cpp.svg' width='30'/> <img src = '/images/pycharm.svg' width='30'/> <img src = '/images/python2.png' height='30'/> <img src = '/images/flutter-logo.svg' width='30'/> <img src = '/images/html.svg' width='30'/> <img src = '/images/css.svg' width='30'/> <img src = '/images/js.svg' width='30'/> <img src = '/images/bootstrap.svg' width='33'/> <img src = '/images/django.svg' height='40'/> <img src = '/images/flask.png' width='30'/> <img src = '/images/php.svg' width='40'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = '/images/cpp.svg' width='30'/> <img src = '/images/pycharm.svg' width='30'/> <img src = '/images/python2.png' height='30'/> <img src = '/images/flutter-logo.svg' width='30'/> <img src = '/images/html.svg' width='30'/> <img src = '/images/css.svg' width='30'/> <img src = '/images/js.svg' width='30'/> <img src = '/images/bootstrap.svg' width='33'/> <img src = '/images/django.svg' height='40'/> <img src = '/images/flask.png' width='30'/> <img src = '/images/php.svg' width='40'/>
  <img src = '/images/sql.svg' width='30'/> <img src = '/images/git.svg' width='30'/>
  
  ## Who am I?
