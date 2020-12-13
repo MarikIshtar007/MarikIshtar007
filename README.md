@@ -34,7 +34,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 			]
 	
 	def getCity():
-		retrun Hyderabad_India()
+		return Hyderabad_India()
 	
 	def Ambitions():
 		LearnJapanese()
