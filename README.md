@@ -28,7 +28,7 @@
  ```python
  class WhoAmI:
  	user = 'Haany Ali'
-		current_edu = "St. Mary's Group of Institutions"
+		current_work = 'Writing code'
 		hobbies = [
 				'Drawing',
 				'Watching Anime',
