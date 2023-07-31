@@ -37,7 +37,7 @@
 			]
 	
 	def getCity():
-		return Hyderabad_India()
+		return Vancouver_Canada()
 	
 	def Ambitions():
 		LearnJapanese()
@@ -48,9 +48,8 @@
  ```
  
 ## Current Works
- * Started learning MERN Stack !!
+ * Breaking into Cybersec !!
  * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Getting Started with NodeJS and the MERN Stack!!
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
